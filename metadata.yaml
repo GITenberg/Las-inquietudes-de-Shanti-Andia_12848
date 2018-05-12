@@ -1,5 +1,8 @@
 _repo: Las-inquietudes-de-Shanti-Andia_12848
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baroja, Pío
@@ -14,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/P%C3%ADo_Baroja
     - http://es.wikipedia.org/wiki/Pío_Baroja
 description: See also PG#47057
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12848#Las-inquietudes-de-Shanti-Andia
 gutenberg_issued: '2004-07-08'
 gutenberg_type: Text
 identifiers:
